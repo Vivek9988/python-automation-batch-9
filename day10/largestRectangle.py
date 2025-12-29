@@ -32,3 +32,5 @@ heights = list(map(int, input("Enter bar heights: ").split()))  # Read bar heigh
 
 # Print the result
 print("Largest Rectangle Area:", largestRectangleArea(heights))
+
+
