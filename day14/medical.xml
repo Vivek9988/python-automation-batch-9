@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MedicalData>
+    <Issue>Diabetes</Issue>
+    <Issue>Asthma</Issue>
+    <Issue>Cancer</Issue>
+    <Issue>Allergy</Issue>
+    <Issue>Flu</Issue>
+</MedicalData>
