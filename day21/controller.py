@@ -46,3 +46,4 @@ print("\n--- SCENARIO 3: Overspeed Protection (Safety Trigger) ---")
 out3 = ecu.calculate_control_action(2000, 6500, 0.1)
 print(f"Input: Target=2000, Actual=6500 | Output: Throttle={out3}%")
 # Result: 0.0% throttle regardless of the target, satisfying the safety requirement.
+# Result
