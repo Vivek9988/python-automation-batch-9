@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AUTOSAR>
+    <ECU-ID>EngineECU</ECU-ID>
+    <CAN-BAUDRATE>500000</CAN-BAUDRATE>
+    <OS>
+        <TASK-PRIORITY>5</TASK-PRIORITY>
+    </OS>
+    <RTE-MAPPING>Rte_Engine</RTE-MAPPING>
+</AUTOSAR>
